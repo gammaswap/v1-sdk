@@ -1,0 +1,22 @@
+{
+  "name": "@gammaswap/v1-sdk",
+  "version": "1.0.0",
+  "description": "ABIs and functions to interact with GammaSwap V1 smart contracts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gammaswap/v1-sdk.git"
+  },
+  "keywords": [
+    "gammaswap"
+  ],
+  "author": "GammaSwap Labs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gammaswap/v1-sdk/issues"
+  },
+  "homepage": "https://github.com/gammaswap/v1-sdk#readme"
+}
